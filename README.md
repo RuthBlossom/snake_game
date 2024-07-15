@@ -2,6 +2,10 @@
 
 This Python script implements the classic Snake game using the Turtle graphics library. Players control a snake that grows longer as it consumes food while avoiding collisions with itself and the edges of the screen.
 
+![Snake game](https://github.com/user-attachments/assets/0c22d814-f0e6-4c83-ad8a-60e1b96ec95b)
+
+
+
 ## Features
 
 - **Snake Movement**: Players can control the snake's movement using arrow keys (Up, Down, Left, Right).
